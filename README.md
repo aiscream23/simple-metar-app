@@ -1,2 +1,2 @@
 # simple-metar-app
-generate-metar
+generate observation weather parameter into metar code using pyqt5
